@@ -67,9 +67,9 @@ player.disconnect VERBINDUNG UNTERBROCHEN
 timer.end Nächste Runde startet in {0}
 leaderboard.empty Leerer Warteraum
 popup.checkpoint Checkpoint!
-app.play BERÜHRE ZUM SPIELEN
+app.play KLICKE ZUM SPIELEN
 app.spectate KLICKE ZUM ZUSCHAUEN
-app.play.mobile KLICKE ZUM SPIELEN
+app.play.mobile BERÜHRE ZUM SPIELEN
 app.spectate.mobile BERÜHRE ZUM ZUSCHAUEN
 app.play.controller START DRÜCKEN
 app.spectate.controller START zum ZUSCHAUEN
@@ -91,10 +91,10 @@ settings.local.region Standard Region
 settings.local.lang Sprache
 settings.network.header Netzwerk
 settings.network.netRerouting Auto Routing (Beeinflusst Ping)
-settings.network.netRate Network Rate (Hz)
+settings.network.netRate Netzwerk Rate (Hz)
 settings.network.lagComp Lag Minimierung
 settings.network.optNet Optimierte Verbindung
-settings.network.quickplay Force Quickplay
+settings.network.quickplay Quickplay erzwingen
 settings.popup.header Popups
 settings.experimental.header Experimentell
 settings.experimental.holiday Feiertags-Effekte
@@ -218,7 +218,7 @@ settings.interface.healthNum Nametag Lebens-Nummer
 settings.interface.healthColT Nametag Team-HP-Farbe
 settings.interface.healthColE Nametag Gegner-HP-Farbe
 settings.interface.xpBarCol XP Leisten-Farbe
-settings.interface.xpBarCol2 XP Bar Color 2
+settings.interface.xpBarCol2 XP Leisten-Farbe 2
 settings.interface.xpBarOpac XP Leisten-Deckkraft
 settings.medals.header Medallien
 settings.medals.show Zeige Medallien
